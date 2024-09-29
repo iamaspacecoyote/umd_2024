@@ -11,6 +11,7 @@ format:
     progress: true
     fontsize: 2.2em
     slide-number: true
+    self-contained: true
 editor: visual
 ---
 
