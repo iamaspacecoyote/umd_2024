@@ -1,0 +1,126 @@
+---
+title: "My Journey as a Statistician"
+author: "Lindsey Dietz, PhD"
+date: "2024-10-04"
+format: 
+  revealjs:
+    incremental: true  
+    theme: dark
+    code-fold: true
+    scrollable: true
+    progress: true
+    fontsize: 2.2em
+    slide-number: true
+editor: visual
+---
+
+## Disclaimer
+
+The views expressed in this presentation are strictly my own. They do not necessarily represent the position of the Federal Reserve Bank of Minneapolis or the Federal Reserve System.
+
+## 
+
+I grew up in Elk River, MN.
+
+![](images/buildingblocks){width="51%"} ![](images/hs){width="36%"}
+
+## 
+
+I attended college at UMD. Go Bulldogs!
+
+::: nonincremental
+-   [B.S. in Math in 2006](https://www.youtube.com/watch?v=AzCXX9gH7ME)
+-   M.S. in Applied and Computational Math in 2008
+:::
+
+<center>![](images/undergrad){width="48%"} ![](images/umd){width="24%"}</center>
+
+## 
+
+I pursued my PhD in Statistics at UMN - Twin Cities.
+
+<center>![](images/gradschool){width="30%"} ![](images/pumpkin.JPG){width="60%"}</center>
+
+## Where am I today?
+
+::: nonincremental
+::: columns
+::: {.column width="75%"}
+-   [Data Science Manager \@ Federal Reserve Bank of Minneapolis](https://www.minneapolisfed.org/news-releases/2021/dietz-recognized-for-excellence-in-bank-supervision)
+    -   I lead a team working on implementation and analysis of models for stress testing large banks.
+-   R Enthusiast and STEM diversity advocate
+    -   [Creator of the noRth R user conference](https://rnorthconference.github.io/)
+    -   [Co-organizer of the R Ladies - Twin Cities meetup](https://www.meetup.com/rladies-tc/members/)
+    -   [IF/THEN AAAS STEM Ambassador](https://www.si.edu/womensfutures)
+:::
+
+::: {.column width="25%"}
+<center><img src="images/statue.png" width="500"/></center>
+:::
+:::
+:::
+
+## My Work at the Federal Reserve (2016 - )
+
+::: nonincremental
+::: columns
+::: {.column width="50%"}
+-   Began as a Quantitative Validator in 2016
+-   Promoted to a Senior Quantitative Analyst in 2019
+-   Promoted to Financial Economist and Implementation Lead in 2020
+-   Promoted to Data Science Manager and Stress Testing Production Lead in 2022
+:::
+
+::: {.column width="50%"}
+![](images/bank.png)
+:::
+:::
+:::
+
+## What is Stress Testing?
+
+<center>![](images/stresstest.png)</center>
+
+## How does my team contribute?
+
+::: nonincremental
+::: columns
+::: {.column width="60%"}
+-   Develops and maintains code and databases used to execute testing
+-   Builds interactive analytical dashboards to share results
+-   Responds to data summary and ad hoc analysis requests
+-   Executes and controls outputs used for publication
+:::
+
+::: {.column width="40%"}
+![](images/results.png)
+:::
+:::
+:::
+
+## Key skills for Data Science roles
+
+::: nonincremental
+-   Techniques - Do you have broad technical knowledge? Can you learn a new method, understand its value, and implement it?
+
+-   Translation - Do you know enough about a research problem and data to propose an appropriate solution?
+
+-   Communication - Can you provide a simple explanation for a complex technique? Can you explain the value add, limitations, and impacts of your analyses to a non-technical audience?
+
+-   Programming - Are you an expert in at least one or more programming language? Are you continuously developing this skill?
+
+-   Time and Project Management - Can you work on several projects at once and meet your deadlines?
+:::
+
+## Transitioning to Leadership
+
+Some changes I've experienced going from an independent contributor to a leader/manager:
+
+-   You are directly dependent on others to meet your goals
+-   You are responsible for the work of others
+-   Buy-in of colleagues and staff is essential
+-   Prioritization is important to gaining buy-in
+-   Decisions have to be made without full information
+-   You need to use your "political capital" wisely
+
+# QUESTIONS?
